@@ -7,7 +7,8 @@
 </head>
 <body>
 <?php
-    echo "hello \<b>world</b>\""; #Dit is commentaar
+    echo "hello <b>world</b>"; #Dit is commentaar
+    echo "hello <b>\"world\"</b>"; #Dit is commentaar
 ?>
 
     
